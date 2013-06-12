@@ -6,11 +6,11 @@ $('div.button').click(function () {
 });
 
 $("div.button").mouseenter(function(){
-  $(this).css("background-color","white");
+  $(this).css("background-color","blue");
 });
 
 $("div.button").mouseleave(function(){
-  $(this).css("background-color","lightblue");
+  $(this).css("background-color","cyan");
 });
 
 $("div.button").mouseover(function(){

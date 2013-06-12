@@ -8,8 +8,8 @@
 	<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 </head>
 <body>
-	<div id="wolkita" class="menu">Wake Kita</div>
-	<div id="wolmb01" class="submenu">Wake MB01</div>	
+	<div id="wolkita" class="button">Wake Kita</div>
+	<div id="wolmb01" class="button">Wake MB01</div>	
 <script src="js/general.js"></script>
 </body>
 </html>
